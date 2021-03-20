@@ -21,6 +21,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    image: images/Screenshot_2018-06-09-00-12-06-957_com.google.android.apps.docs.png
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
